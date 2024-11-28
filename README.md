@@ -15,7 +15,7 @@ This notebook focuses on the analysis of deforestation in Ukraine using Sentinel
 - **Process**:
   - Use the `kagglehub` library to download the dataset: `isaienkov/deforestation-in-ukraine`.
   - Verify the path to the downloaded data to ensure successful access.
-
+  - In this case two pictures from dataset were transfered into project folder
 ---
 
 ### **2. Preprocessing Sentinel-2 Images**
